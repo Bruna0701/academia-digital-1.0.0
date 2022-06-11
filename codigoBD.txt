@@ -1,0 +1,7 @@
+psql -U bls19 postgres;
+password: root
+create database academia;
+psql -U bls19 academia;
+password: root
+\dt  //ver tabelas
+
